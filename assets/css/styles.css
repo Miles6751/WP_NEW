@@ -1,0 +1,31 @@
+#video-and-stats {
+}
+
+@media (min-width: 300px) {
+  #video-and-stats {
+  }
+}
+
+#promo {
+}
+
+@media (min-width: 1400px) {
+  #promo {
+  }
+}
+
+@media (min-width: 300px) {
+  #promo {
+    padding: 15px;
+  }
+}
+
+#infovideo {
+  text-align: center;
+}
+
+#infovideo iframe {
+  width: 90%;
+  height: 400px;
+}
+
